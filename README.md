@@ -2,4 +2,5 @@
 An app to calculate your existence
 
 
-![image](https://user-images.githubusercontent.com/41441461/160273079-6662676c-bb6d-42ab-8f65-5bd0fa0a8559.png)
+![image](https://user-images.githubusercontent.com/41441461/160273613-11b5d489-cf1f-491d-9be5-ce88e6fcb72f.png)
+
